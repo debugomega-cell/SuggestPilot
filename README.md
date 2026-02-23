@@ -2,8 +2,8 @@
 
 **A Chrome extension that generates intelligent, context-aware autocomplete suggestions as you type — powered by Groq's free LLM API.**
 
-Instead of generic autocomplete, it reads what tabs you have open, your recent browsing history, and your current research thread to suggest completions that actually make sense for what you're doing right now.
 
+Instead of generic autocomplete, SuggestPilot reads your open tabs and recent browsing history locally in your browser to suggest smarter completions. Nothing leaves your device except the suggestion request to Groq's API — your history is never stored or shared.
 
 
 
@@ -14,9 +14,7 @@ https://github.com/user-attachments/assets/7f69d30d-5a3a-4de2-8855-96cf82afd425
 
 ## What It Does
 
-Most autocomplete tools look at the word you're typing. This one looks at *you* — what you've been researching for the last 30 minutes, what tabs you have open, what page you're on.
-
-**Note: No personal data is collected, stored, sold, or shared by SuggestPilot.**
+Most autocomplete tools look at the word you're typing. This one looks at *you* — what you've been researching for the last 30 minutes, what tabs you have open, what page you're on everything locally on your browser, never sharing with any third parties.
 
 
 ## Getting Started
