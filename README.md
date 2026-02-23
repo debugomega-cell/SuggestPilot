@@ -16,6 +16,8 @@ https://github.com/user-attachments/assets/7f69d30d-5a3a-4de2-8855-96cf82afd425
 
 Most autocomplete tools look at the word you're typing. This one looks at *you* — what you've been researching for the last 30 minutes, what tabs you have open, what page you're on.
 
+**Note: No personal data is collected, stored, sold, or shared by SuggestPilot.**
+
 
 ## Getting Started
 
